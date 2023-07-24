@@ -1,0 +1,31 @@
+body{
+	background: black;
+	color:white;
+	height: 100vh;
+}
+a{
+	text-decoration: none;
+	color: white;
+}
+button{
+	background: green;
+	padding:10px;
+	font-size: larger;
+	margin:20px;
+	text-decoration: none;
+}
+button:hover{
+	cursor: pointer;
+	box-shadow:0 0 30px grey;
+	border:1px solid white;
+
+}
+.fp{
+	margin:auto;
+	width:50%;
+
+	text-align:center;
+}
+footer{
+	margin-top:30%;
+}

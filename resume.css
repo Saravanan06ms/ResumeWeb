@@ -1,0 +1,33 @@
+body{
+	background-color: black;
+	color:white;
+}
+input{
+	width:25%;
+	padding:10px;
+
+}
+.form1{
+/*	margin-left: 40%;*/
+text-align: center;
+background-color: rgba(0, 0, 0, 0.5);
+color: white;
+}
+header{
+	text-align: center;
+	color: #F582A7;
+	font-size: 30px;
+	font-family: sans-serif;
+}
+.sub{
+	padding: 10px;
+	color:white;
+	background-color: #1A5D1A;
+	cursor: pointer;
+}
+.sub:hover{
+	cursor: pointer;
+	box-shadow:0 0 30px grey;
+	border:1px solid white;
+
+}
